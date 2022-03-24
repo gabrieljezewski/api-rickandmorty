@@ -10,7 +10,7 @@ Buscar na api <a href="https://rickandmortyapi.com/documentation"></a> RickandMo
 
 ## Layout da Aplicação
 
-<img alt="Layout" src="/images/layout.png" />
+<img alt="Layout" src="/images/layout.png" width="1000px" />
 
 ## Descrição da minha resolução do desafio
 
