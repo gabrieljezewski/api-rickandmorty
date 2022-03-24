@@ -18,12 +18,10 @@ Inicialmente montei a página no arquivo index.html, e realizei a estilização 
 
 ## Para executar o projeto
 
-Você pode baixar os arquivos manualmente na opção Code > Download ZIP, ou clonar o repositório, com o comando: git clone https://github.com/gabrieljezewski/api-rickandmorty.git
-Estando com os arquivos em seu computador, poderá utilizar a ferramenta Visual Studio Code, caso não tenha, link para download: https://code.visualstudio.com/download
-Depois de abrir os arquivos na ferramenta, precisará instalar a extensão Live Server, segue para mais informações: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+Você pode baixar os arquivos manualmente na opção Code > Download ZIP, ou clonar o repositório, com o comando: git clone https://github.com/gabrieljezewski/api-rickandmorty.git. Estando com os arquivos em seu computador, poderá utilizar a ferramenta Visual Studio Code, caso não tenha, poderá fazer download <a href="https://code.visualstudio.com/download">aqui</a>.
+Depois de abrir os arquivos na ferramenta, precisará instalar a extensão Live Server, para mais informações, clique em <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">LiveServer</a>.
 Por fim, basta executar a index.html com a extensão instalada.
 
 ## Versão
 
 1.0.0
-
