@@ -6,7 +6,7 @@
 
 ## Projeto
 
-Buscar na api <a href="https://rickandmortyapi.com/documentation"></a> RickandMorty 1 personagem masculino e 1 personagem feminino e exibir os seguintes dados: nome, status (vivo ou morto), planeta de origem e pelo menos 1 episódio. E gerar uma página web simples para exibição no navegador.
+Buscar na api <a href="https://rickandmortyapi.com/documentation/">RickandMorty</a> 1 personagem masculino e 1 personagem feminino e exibir os seguintes dados: nome, status (vivo ou morto), planeta de origem e pelo menos 1 episódio. E gerar uma página web simples para exibição no navegador.
 
 ## Layout
 
